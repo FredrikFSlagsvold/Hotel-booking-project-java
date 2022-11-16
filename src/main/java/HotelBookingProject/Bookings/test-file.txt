@@ -1,0 +1,14 @@
+Test Hotell
+1001;true;2;false;6;2;false;3300
+1004;true;3;false;7;1;true;7350
+3001;true;5;false;4;5;true;10000
+2000+;true;4;true;6;4;false;10200
+1000;false;1;false;0;0;false;0
+1002;false;2;false;0;0;false;0
+1003;false;3;false;0;0;false;0
+2000;false;4;false;0;0;false;0
+2001;false;4;false;0;0;false;0
+3000;false;5;false;0;0;false;0
+4000;false;6;false;0;0;false;0
+4000+;false;6;true;0;0;false;0
+3000+;false;5;true;0;0;false;0

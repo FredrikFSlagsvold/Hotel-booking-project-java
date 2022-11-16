@@ -1,0 +1,14 @@
+Bennys Hotell
+2000;true;4;false;5;2;true;8000
+2001;true;4;false;5;2;false;6000
+1000;false;1;false;0;0;false;0
+1001;false;2;false;0;0;false;0
+1002;false;2;false;0;0;false;0
+1003;false;3;false;0;0;false;0
+1004;false;3;false;0;0;false;0
+3000;false;5;false;0;0;false;0
+3001;false;5;false;0;0;false;0
+4000;false;6;false;0;0;false;0
+4000+;false;6;true;0;0;false;0
+3000+;false;5;true;0;0;false;0
+2000+;false;4;true;0;0;false;0
